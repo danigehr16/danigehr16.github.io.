@@ -1,0 +1,98 @@
+#paragraph {
+    font-family: "Arial", Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    
+}
+
+
+.img {
+    float: left;
+    margin: 4px;
+    padding: 7px;
+}
+
+.head {
+    font-family: "Georgia", 'Times New Roman', Times, serif;
+    padding-bottom: 0px;
+    float: left;
+}
+
+#left {
+    float: left;
+    padding-right: 8px;
+}
+
+.white {
+    background-color: white;
+}
+
+#teal {
+    background-color: teal;
+    padding: 10px;
+    height: 60px;
+    font-family: "Georgia", 'Times New Roman', Times, serif;
+}
+
+
+.bg {
+    background-color:darkgray;
+    padding-bottom: 0px;
+}
+
+#space {
+    padding-top: 20px;
+    margin-bottom: 30px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+ }
+
+ .container3 {
+     padding: 20px;
+     margin: 10px;
+     
+ }
+
+ #float {
+     padding-left: 20px;
+     margin: 100px;
+    
+ }
+
+ .size {
+     height: 400px;
+     width: 300px;
+    
+
+ }
+
+ #port {
+     margin-top: 20px ;
+     background-color: white;
+ }
+
+ .font {
+    font-family: "Georgia", 'Times New Roman', Times, serif;
+    color: teal
+ }
+ #bgbutton {
+     background-color: teal;
+     font-family: "Arial", Arial, Helvetica, sans-serif;
+ }
+
+ .time {
+    font-family: "Arial", Arial, Helvetica, sans-serif;
+ }
+
+ #change {
+     margin-top: 8px;
+     background-color: white;
+ }
+
